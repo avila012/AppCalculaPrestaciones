@@ -1,0 +1,6 @@
+C:\C#\Curso POO\CalculaCesantía\CalculaCesantía\CalculaCesantía\bin\Debug\CalculaCesantía.exe
+C:\C#\Curso POO\CalculaCesantía\CalculaCesantía\CalculaCesantía\bin\Debug\CalculaCesantía.pdb
+C:\C#\Curso POO\CalculaCesantía\CalculaCesantía\CalculaCesantía\obj\Debug\CalculaCesantía.exe
+C:\C#\Curso POO\CalculaCesantía\CalculaCesantía\CalculaCesantía\obj\Debug\CalculaCesantía.pdb
+C:\C#\Curso POO\CalculaPrestaciones\CalculaPrestaciones\CalculaPrestaciones\obj\Debug\CalculaCesantía.exe
+C:\C#\Curso POO\CalculaPrestaciones\CalculaPrestaciones\CalculaPrestaciones\obj\Debug\CalculaCesantía.pdb
